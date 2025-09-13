@@ -1,0 +1,43 @@
+XDP program attached on ens33 (ifindex: 2)
+Listening for flow events. Press Ctrl+C to exit.
+Flow feature received:
+  Dst Port             : 59626
+  Fwd Packet Length Max: 1480
+  Total Fwd Length     : 5401
+  Fwd Packet Length Min: 20
+  Fwd Header Length    : 244
+  Fwd IAT Min (ns)     : 0
+  Num Packets          : 12
+  Last Packet Time     : 50928093279082
+  ---
+Flow feature received:
+  Dst Port             : 20756
+  Fwd Packet Length Max: 362
+  Total Fwd Length     : 560
+  Fwd Packet Length Min: 32
+  Fwd Header Length    : 224
+  Fwd IAT Min (ns)     : 0
+  Num Packets          : 7
+  Last Packet Time     : 50928124417094
+  ---
+Flow feature received:
+  Dst Port             : 20756
+  Fwd Packet Length Max: 1480
+  Total Fwd Length     : 272405389
+  Fwd Packet Length Min: 32
+  Fwd Header Length    : 99128168
+  Fwd IAT Min (ns)     : 0
+  Num Packets          : 3097755
+  Last Packet Time     : 50987234995410
+  ---
+Flow feature received:
+  Dst Port             : 20756
+  Fwd Packet Length Max: 360
+  Total Fwd Length     : 923
+  Fwd Packet Length Min: 32
+  Fwd Header Length    : 424
+  Fwd IAT Min (ns)     : 0
+  Num Packets          : 13
+  Last Packet Time     : 50987235111103
+  ---
+Exiting program.
